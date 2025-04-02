@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **ajaysriacads@gmail.com**
 <br><br>
-- 📄 <u> Know about my experiences:~ </u> ⦿ I was also a successful contributor at:
-– HacktoberFest'23 
-– GSSoC '24
-– Social Summer Of code '24
-– Winter of BlockChain '24
+- 📄 <u> Know about my experiences:~ </u> ⦿ I was also a successful contributor at:<br>
+– HacktoberFest'23 <br>
+– GSSoC '24 <br>
+– Social Summer Of code '24 <br>
+– Winter of BlockChain '24 <br>
 – GSSoC Extd. '24
 <br>
 <h3 align="left"><u>Connect with me:</u></h3>
