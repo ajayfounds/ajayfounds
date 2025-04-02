@@ -11,7 +11,7 @@
 – HacktoberFest'23 <br>
 – GSSoC '24 <br>
 – Social Summer Of code '24 <br>
-– Winter of BlockChain '24 <br>
+– Winter of BlockChain '24 <br> 
 – GSSoC Extd. '24
 <br>
 <h3 align="left"><u>Connect with me:</u></h3>
